@@ -1,0 +1,140 @@
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\appsettings.Development.json
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\appsettings.json
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.exe
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.deps.json
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.runtimeconfig.json
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.runtimeconfig.dev.json
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\ref\CodeFirstApproch.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.pdb
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.Views.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.Views.pdb
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Humanizer.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.csproj.AssemblyReference.cache
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.AssemblyInfoInputs.cache
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.AssemblyInfo.cs
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.csproj.CoreCompileInputs.cache
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.MvcApplicationPartsAssemblyInfo.cache
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.RazorAssemblyInfo.cache
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.RazorAssemblyInfo.cs
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\staticwebassets\CodeFirstApproch.StaticWebAssets.Manifest.cache
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\staticwebassets\CodeFirstApproch.StaticWebAssets.xml
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\scopedcss\bundle\CodeFirstApproch.styles.css
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.TagHelpers.input.cache
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.TagHelpers.output.cache
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.RazorCoreGenerate.cache
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.RazorTargetAssemblyInfo.cache
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.RazorTargetAssemblyInfo.cs
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.Views.pdb
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.csproj.CopyComplete
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.dll
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\ref\CodeFirstApproch.dll
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.pdb
+D:\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.genruntimeconfig.cache
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\appsettings.Development.json
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\appsettings.json
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.exe
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.deps.json
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.runtimeconfig.json
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.runtimeconfig.dev.json
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\ref\CodeFirstApproch.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.pdb
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.Views.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\CodeFirstApproch.Views.pdb
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Humanizer.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.csproj.AssemblyReference.cache
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.AssemblyInfoInputs.cache
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.AssemblyInfo.cs
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.csproj.CoreCompileInputs.cache
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.MvcApplicationPartsAssemblyInfo.cache
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.RazorAssemblyInfo.cache
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.RazorAssemblyInfo.cs
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\staticwebassets\CodeFirstApproch.StaticWebAssets.Manifest.cache
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\staticwebassets\CodeFirstApproch.StaticWebAssets.xml
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\scopedcss\bundle\CodeFirstApproch.styles.css
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.TagHelpers.input.cache
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.TagHelpers.output.cache
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.RazorCoreGenerate.cache
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.RazorTargetAssemblyInfo.cache
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.RazorTargetAssemblyInfo.cs
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.Views.pdb
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.csproj.CopyComplete
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\ref\CodeFirstApproch.dll
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.pdb
+D:\Manoj Kumar Yadav\Github Project\CodeFirstApproch-in-Core-master\CodeFirstApproch-in-Core-master\CodeFirstApproch\CodeFirstApproch\obj\Debug\net5.0\CodeFirstApproch.genruntimeconfig.cache
